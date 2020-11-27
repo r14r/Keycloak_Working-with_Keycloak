@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "**/.githooks": true,
+    "**/.env.d": true,
+    "**/.env": true,
+    "**/node_modules": true,
+    "**/package-lock.json": true,
+    "**/*.test.js": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  }
+}
